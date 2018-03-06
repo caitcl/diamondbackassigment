@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+
+<fileDesc>
+      <titleStmt>
+        <title>Is Elkins the Next to Go? Digital Encoding of Diamondback March 13, 1969 article</title>
+        <author><persName xml:id="CCL">Caitlin Christian-Lamb</persName></author>
+        <respStmt>
+        <resp>Encoded by</resp><name ref="CCL">Caitlin Christian-Lamb</name></respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <publisher>
+          <orgName>African American History, Culture, and Digital Humanities (AADHum)</orgName>
+        </publisher>
+        <pubPlace>College Park, MD</pubPlace>
+        <date>March 6, 2018</date>
+        </publicationStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title><orgName>The Diamondback</orgName></title>
+          <publisher><orgName>University of Maryland</orgName></publisher>
+          <pubPlace>College Park, MD</pubPlace>
+          <date>March 12, 1969</date>
+        </bibl>
+        <msDesc>
+
+          <msIdentifier>
+            <settlement>College Park</settlement>
+            <repository>University of Maryland University Archives</repository>
+            <idno>https://www.lib.umd.edu/univarchives/student-newspapers/id/15ef2cfb-614e-48bf-a99a-a6fbf97db0c0?"</idno>
+          </msIdentifier>
+
+          <msContents>
+            <msItem>
+              <author>Ira Allen</author>
+              <title>Is Elkins Next to Go?</title>
+            </msItem>
+          </msContents>
+        </msDesc>
+
+      </sourceDesc>
+      </fileDesc>
+</teiHeader>
+
+<text>
+<body>
+<p>
+
+Is Elkins next in line?
+
+Now that <persName>Robert Spence</persName>, <persName>Bob Ward</persName>
+and <persName>Frank Fellows</persName> have resigned under
+pressure from students, the next target
+is none other than the Big Man himself,
+<persName>Wilson Elkins</persName>.
+Though many individuals have been
+harboring a desire to see the retirement
+of our distinguished president, a col­
+lective effort is now under way to
+publicize Elkins' 15-year record of un­
+responsiveness to students and the mani­
+fold problems of a growing University,
+He has done much for academics and
+much for the University’s image, but
+all too little for the raison d’etre of this
+institution--the students. Remember
+them?
+Elkins’ availability is legendary, his
+morality of another age and his public
+statements a mixture of John Wayne and
+Dwight Eisenhower with a little Spiro
+Agnew thrown into the melange.
+And with the federal vindication of the
+
+<orgName>Student Government Association’s</orgName> year­
+long declaration of institutional racism,
+further impetus has been marshalled
+behind those forces, anonymous for the
+time being, who will soon embark on a
+publicity campaign to expose Elkins’
+uselessness here.
+Much of Elkins’ problem is not sub­
+stantive, but a matter of style wiiich is
+irrelevant to the newness of modern
+life.
+In introducing Sen. Edmund Muskie
+last week, Elkins had the unfortunate
+grace to mention four times that the
+senator is a loser and that we are proud
+to have him speak here.
+Elkins noted that the length of an
+introduction is commensurate with the
+speaker’s dignity and stature. <q>“But
+this introduction will be brief,”</q> Elkins
+faux-pased.
+Perhaps Elkins, beset with all kinds
+of pressure from the student body, the
+
+legislature and from bewildered parents,
+will And it quite appealing to resign and
+return to teaching, or take a government
+position.
+Certainly his attitudes fit right in with
+the Nixon non-administration.
+The pressures of health, too, must be
+catching up with him and that would be
+as convenient an excuse as necessary to
+get oat of the College Park loony bin.
+Whenever it is that Elkins leaves his
+beloved constituents he should remember
+that old presidents don’t die—they just
+lose their faculties.
+♦ ♦
+Speaking of presidents, the newest
+darling of the law’n’order crowd. Father
+Theodore Hesburgh of Notre Dame is
+reputed to have dented that the publish
+or perish syndrome exists at his campus.
+The way he put it, the problem is
+<q>“Publish or back to the parish,"</q>
+Ho, ho.
+
+</p>
+</body>
+</text>
+</TEI>
